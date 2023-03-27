@@ -1,6 +1,5 @@
 # British-Airways-Data-Science-Virtual-Experience-Program
 Completed British Airways Data Science Virtual Experience Program:
-British Airways Data Science Virtual Experience Programme
 
 -Scraped and analysed customer review data to uncover findings for British Airways
 
